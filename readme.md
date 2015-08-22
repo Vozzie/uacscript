@@ -6,3 +6,4 @@ The Windows Script Host executables suffer from a vulnerability due to a missing
 
 Both ZDI and Microsoft are aware of this issue, expectedly ZDI didn't accept the admission because it's not a remote vulnerability. Surprisingly Microsoft didn't accept the vulnerability because "UAC isn't considered a security boundary".
 
+Only Windows 7 is vulnerable, Windows 8 has a embedded manifest and Windows 10 is untested.
